@@ -1,0 +1,1 @@
+The hardest part of making a website is narrowing down the possibilities to form a clear purpose.
