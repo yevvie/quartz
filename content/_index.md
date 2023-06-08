@@ -1,6 +1,10 @@
 ---
 title: Test thingy for a new blog
 enableToc: false
+tags:
+- example-tag
+- tag-nr-2
+- this-is-for-css
 ---
 
 # H1 What is Lorem Ipsum?
@@ -29,3 +33,7 @@ Maecenas tempor gravida venenatis. Morbi ornare laoreet sapien imperdiet vehicul
 	Aenean porta pretium lectus, vel sodales ipsum feugiat eu. Vestibulum magna velit, cursus tincidunt consequat nec, feugiat nec neque. Nullam venenatis varius eros a luctus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec nec ultricies nulla, vel finibus ipsum.
 
 
+| Lorem | Semper | Sodales | Lectus |
+| :--- | :---: | ---: | --- |
+| a | b | c | d |
+| primis | porta | pretium | nullam |
